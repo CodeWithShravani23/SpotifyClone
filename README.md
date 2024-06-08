@@ -3,7 +3,6 @@ This is my first Project
 
 Description<br>
 This project is a clone of Spotify's web interface built using HTML and CSS. It replicates the look and feel of the Spotify music streaming service, showcasing my skills in web development and design.
-<br>
 
 Table of Contents<br>
 1.Demo<br>
